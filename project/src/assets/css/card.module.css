@@ -15,7 +15,6 @@
    display: flex;
    flex-direction: column;
    gap: 20px; 
-
    padding: 40px;  
 }
 
@@ -34,6 +33,8 @@
     width: 32px;
     height: auto;
 }
+
+
 
 .content_card{
     display: flex;
