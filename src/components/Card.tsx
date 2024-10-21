@@ -1,4 +1,4 @@
-import styles from '../assets/css/card.module.css'
+import styles from '../assets/css/card.module.css';
 import { FaRegHeart } from "react-icons/fa";
 
 
